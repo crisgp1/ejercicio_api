@@ -1,2 +1,1 @@
-# ejercicio_api
-# ejercicio_api
+Este ejercicio son practicas de API con VanillaJS
